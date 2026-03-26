@@ -1,0 +1,5 @@
+{
+  "name": "Market Basket Analyzer",
+  "description": "Upload transaction data to discover cross-selling opportunities and product relationships using Market Basket Analysis.",
+  "requestFramePermissions": []
+}
